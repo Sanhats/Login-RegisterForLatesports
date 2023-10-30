@@ -1,0 +1,72 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("img/desktop-wallpaper-counter-strike-cs-go-background.jpg");
+}
+.navtop{
+    margin-left: 450px;
+    font-family: Counter-Strike Regular;
+    display: flex;
+    align-items: center;
+    background-image: url("img/csgoNAV.png");
+    margin-top: -3px;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    color: #dddee0;
+    font-size: 1000px;
+    
+}
+.navcon .Home{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 10px;
+    color: #dddee0;
+    text-decoration: none;
+}
+.navcon .Teams{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 330px;
+    margin-top: -14px;
+    color: #dddee0;
+    text-decoration: none;
+}
+.navcon .Matches{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 560px;
+    margin-top: -15px;
+    color: #dddee0;
+    text-decoration: none;
+}
+.search{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 730px;
+    margin-top: -15px;
+    color: #dddee0;
+    text-decoration: none;
+    color: #dddee0;
+    border-radius: 100%;
+}
+.leftbar {
+    background-image: url("img/csgoNAV.png");
+    font-family: Counter-Strike Regular;
+    position: absolute;
+    top: 5%;
+    height: 0%;
+    
+    
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
